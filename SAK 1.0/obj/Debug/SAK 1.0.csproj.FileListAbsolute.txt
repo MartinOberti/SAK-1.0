@@ -1,0 +1,12 @@
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\bin\Debug\SAK 1.0.exe.config
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\bin\Debug\SAK 1.0.exe
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\bin\Debug\SAK 1.0.pdb
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\obj\Debug\SAK 1.0.csproj.AssemblyReference.cache
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\obj\Debug\SAK_1._0.Properties.Resources.resources
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\obj\Debug\SAK 1.0.csproj.GenerateResource.cache
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\obj\Debug\SAK 1.0.csproj.CoreCompileInputs.cache
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\obj\Debug\SAK 1.0.exe
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\obj\Debug\SAK 1.0.pdb
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\obj\Debug\SAK_1._0.Form1.resources
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\obj\Debug\SAK_1._0.FortuneWheelAddObject.resources
+C:\Users\martu\source\repos\SAK 1.0\SAK 1.0\obj\Debug\SAK_1._0.FortuneWheelEditObject.resources
